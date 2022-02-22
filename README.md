@@ -28,6 +28,8 @@ What is 996?
 A "996" work schedule refers to an unofficial work schedule (9 a.m.&ndash;9 p.m., 6 days per week) that has been gaining popularity. Serving a company that encourages the "996" work schedule usually means working for at least 60 hours per week.
 Visit [996 working hour system](https://en.wikipedia.org/wiki/996_working_hour_system) on Wikipedia for more details.
 
+- 996 is completely a symbol of capitalism now in China
+- The only solution of the 996 is the communism, a pure but not specialized communism.
 
 What can I do?
 ---
@@ -55,9 +57,6 @@ Voices
 ### Developers
 - **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
 
-### Communists
-- 996 is completely a symbol of capitalism now in China
-- The only solution of the 996 is the communism, a pure but not specialized communism.
 
 Principles and purposes
 ---
