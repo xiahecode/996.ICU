@@ -55,6 +55,9 @@ Voices
 ### Developers
 - **Guido van Rossum, founder of Python**: [`The '996' working schedule is inhumane.`](https://twitter.com/gvanrossum/status/1111628076801236993)
 
+### Communists
+- 996 is completely a symbol of capitalism now in China
+- The only solution of the 996 is the communism, a pure but not specialized communism.
 
 Principles and purposes
 ---
